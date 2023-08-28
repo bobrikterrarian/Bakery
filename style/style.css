@@ -47,10 +47,14 @@ body {
 
   /* едер */
   .header {
+    margin-left: 185px;
     position: absolute;
     margin-top: 95px;
   }
-
+  .menu-list{
+    gap: 10px;
+    display:flex;
+  }
 .menu-link {
   color: #FFF;
 font-family: Inter;
@@ -61,6 +65,15 @@ line-height: normal;
 }
 
   /* герой */
+  .hero-text{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: 570.253px;
+    }
   .hero {
     background-image: url(../images/hero.png);
     width: 1431px;
