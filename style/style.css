@@ -44,4 +44,39 @@ body {
     padding-left: 15px;
     padding-right: 15px;
   }
-  
+
+  /* едер */
+  .header {
+    position: absolute;
+    margin-top: 95px;
+  }
+
+.menu-link {
+  color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+}
+
+  /* герой */
+  .hero {
+    background-image: url(../images/hero.png);
+    width: 1431px;
+height: 1023px;
+margin-left: auto;
+margin-right: auto;
+
+  }
+
+  .hero-tital {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal; 
+    padding-top: 195px;
+    width: 551px;
+  }
