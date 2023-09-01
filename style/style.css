@@ -93,3 +93,23 @@ margin-right: auto;
     padding-top: 195px;
     width: 551px;
   }
+
+  .herobottom {
+    color:#FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+  
+    border-radius: 17px;
+    background-color: #b47b48;
+  
+    padding: 16px 34px 7px;
+  }
+
+  .herobottom:hover,
+  .herobottom:focus {
+  color: #B47B48;
+  background-color: #FFF;
+  cursor: pointer;
+}
