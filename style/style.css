@@ -113,3 +113,45 @@ margin-right: auto;
   background-color: #FFF;
   cursor: pointer;
 }
+.buy {
+
+  color: #FFF;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+background-color: #C85312;
+padding: 10px 22px
+}
+.menu-button {
+  color: #FFF;
+font-family: Inter;
+font-size: 25.92px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+background-color: #C85312;
+padding: 3px 43px
+}
+.menutitle {
+  color: #FFF;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 100;
+line-height: normal;
+}
+.menutitle2 {
+  color: #FFF;
+font-family: Inter;
+font-size: 25.92px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.menu {
+  background: #202023;
+  padding-top: 21px;
+  padding-bottom: 70px;
+}
