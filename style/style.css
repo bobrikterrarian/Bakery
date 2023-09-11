@@ -190,3 +190,10 @@ text-align: center;
   display: flex;
   gap: 20px;
 }
+.advantage-item
+{color: #FFF;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;}
